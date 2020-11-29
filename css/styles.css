@@ -1,0 +1,53 @@
+body {
+    background-color: "pink";
+}
+
+.kittens {
+    color: blue;
+}
+
+#subtitle {
+    font-size: 35px;
+    font-style: italic;
+}
+
+header {
+    background: black;
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    /* shorthand margin: top10px right20px bottom30px left40px */
+    /* you can use two, three, four values:
+      margin: 10px 10px 10px 10px | shorthand: margin: 10px; */
+    width: 100px;
+}
+
+main {
+    background: lightblue;
+    color: yellow;
+    width: 250px;
+    margin-right: -20px;
+    /* Try to avoid setting height */
+    /* height: 400px; */
+}
+
+footer {
+    padding: 30px 20px 50px 40px;
+    background: red;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "Helvetica";
+    /* border-style: dash/dotted/double/groove/ridge */
+    /* shorthand borders: border: 2px solid pink */
+    /* border-left, border-right, border-bottom, border-top */
+}
+
+.challenge {
+    font-size: 40px;
+}

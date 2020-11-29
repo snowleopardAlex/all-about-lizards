@@ -1,0 +1,58 @@
+h2 {
+    color: blue;
+    font-size: 30px;
+    background: yellow;
+}
+
+h1 { 
+    background: red;
+    color: white;
+    margin-top: 50px;
+}
+
+h3 {
+    background: green;
+    color: white;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.litter {
+    font-size: 25px;
+    color: red;
+    padding: 20px;
+    border: 5px solid purple;
+}
+
+#like {
+    margin-left: 50px;
+    margin-top: 20px;
+    background: brown;
+    color: white;
+    font-size: 30px;
+}
+
+
+.box {
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: green;
+    margin-left: 200px;
+    font-size: 40px;
+}
+
+.cats {
+    background-color: purple;
+    color: white;
+    padding: 75px 0;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 0 10px;
+} 
